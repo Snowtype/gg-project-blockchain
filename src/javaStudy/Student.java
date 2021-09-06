@@ -1,6 +1,7 @@
 package javaStudy;
 //해당코드는 강의를 바탕으로한 자율 학습용 코드입니다.
 //코드출처: 프로그래머스 중급
+//수정중
 
 public class Student {
     String name;
