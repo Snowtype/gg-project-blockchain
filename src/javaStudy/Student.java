@@ -4,7 +4,6 @@ package javaStudy;
 //수정중
 //이거 추가했습니다
 
-
 public class Student {
     String name;
     String number;
